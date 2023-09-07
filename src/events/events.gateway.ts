@@ -12,11 +12,8 @@ export class EventsGateway {
   @WebSocketServer() //Get access to server
   server: Server;
   @SubscribeMessage('send-message')
-  handleEvent(
-    @MessageBody() data: string, // extract message from payload
-    @ConnectedSocket() client: Socket,
-  ): void {
-    this.server.emit
+  handleEvent(@MessageBody() data: string): void {
     console.log(data)
-  }
+    this.server.emit('send-message');
+    }
 }
