@@ -35,7 +35,7 @@
 
 
 <a href="https://nodejs.org/en" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="html5" width="100" height="50"/></a>
-<a href="https://docs.nestjs.com/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="nest" width="170" height="40"/></a>
+<a href="https://docs.nestjs.com/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="nest" width="50" height="40"/></a>
 
 
 
