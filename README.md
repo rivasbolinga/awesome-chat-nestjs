@@ -1,73 +1,145 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
-</p>
+<div align="center">
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
+# AWESOME CHAT
+<img width="500px" src="https://github.com/rivasbolinga/chat-app/assets/103900838/d28d92b3-5d22-45f3-b2b3-31461d267ab3"/>
 
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
-    <p align="center">
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/common.svg" alt="NPM Downloads" /></a>
-<a href="https://circleci.com/gh/nestjs/nest" target="_blank"><img src="https://img.shields.io/circleci/build/github/nestjs/nest/master" alt="CircleCI" /></a>
-<a href="https://coveralls.io/github/nestjs/nest?branch=master" target="_blank"><img src="https://coveralls.io/repos/github/nestjs/nest/badge.svg?branch=master#9" alt="Coverage" /></a>
-<a href="https://discord.gg/G7Qnnhy" target="_blank"><img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/></a>
-<a href="https://opencollective.com/nest#backer" target="_blank"><img src="https://opencollective.com/nest/backers/badge.svg" alt="Backers on Open Collective" /></a>
-<a href="https://opencollective.com/nest#sponsor" target="_blank"><img src="https://opencollective.com/nest/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
-  <a href="https://paypal.me/kamilmysliwiec" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/></a>
-    <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
-  <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
-</p>
-  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+</div>
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+----
+<!-- TABLE OF CONTENTS -->
 
-## Installation
+# 📗 Table of Contents
 
-```bash
-$ yarn install
+- [📖 About the Project](#about-project)
+- [🛠 Built With](#built-with)
+- [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+- [👥 Authors](#authors)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+
+
+<!-- ABOUT THE PROJECT -->
+
+# 🖌️ About the project <a name="getting-started"></a>
+
+<p>A chat application is a digital platform facilitating real-time text-based communication between users, enabling instant messaging, sharing media, and emoticons.</p>
+<p>Built with the purpose of learning Web Sockets with node.js using Express</p>
+
+  
+# 🛠 Built With <a name="built-with"></a>
+
+
+<a href="https://nodejs.org/en" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="html5" width="100" height="50"/></a>
+<a href="https://expressjs.com/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="html5" width="170" height="40"/></a>
+
+
+
+
+<!-- Features -->
+
+# 👣 Key Features <a name="key-features"></a>
+
+- [ ] **Instant messages**
+- [ ] **Unlimited users can join**
+- [ ] **You can send you favourite emojies**
+
+
+<!-- GETTING STARTED -->
+
+# 🚀 Getting Started  <a name="getting-started"></a>
+
+### Prerequisites
+
+In order to run this project you need to install node.js: 
+
+```
+npm install -g npm
 ```
 
-## Running the app
 
-```bash
-# development
-$ yarn run start
+### Setup
 
-# watch mode
-$ yarn run start:dev
+Clone this repository to your desired folder:
 
-# production mode
-$ yarn run start:prod
+
+```sh
+  cd my-folder
+  git https://github.com/rivasbolinga/awesome-chat.git
 ```
 
-## Test
 
-```bash
-# unit tests
-$ yarn run test
+### Install
 
-# e2e tests
-$ yarn run test:e2e
+Install this project with:
 
-# test coverage
-$ yarn run test:cov
+
+```sh
+npm install
 ```
 
-## Support
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+### Usage
 
-## Stay in touch
+To run the project, execute the following command:
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
 
-## License
+```sh
+  npm start
+```
 
-Nest is [MIT licensed](LICENSE).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- AUTHORS -->
+
+# 👩🏽‍💻 Authors <a name="authors"></a>
+
+
+ ### 💁🏽‍♀️ **Andrea Rivas**
+
+
+- GitHub: [@rivasbolinga](https://github.com/rivasbolinga)
+- Twitter: [@AndreaRivasPal](https://twitter.com/AndreaRivasPal)
+- LinkedIn: [andrearivaspalacios](https://www.linkedin.com/in/andrearivaspalacios/)<!-- CONTRIBUTING -->
+
+# 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](./).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+# ⭐️ Show your support<a name="support"></a>
+
+If you like this project, please give it a star ⭐️.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+# 🔮 Future Features  <a name="future-features"></a>
+
+- [ ] **Deploy it**
+- [ ] **Able to send media**
+- [ ] **Able to add profile picture**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+# 🙏🙏 Acknowledgments  <a name="acknowledgements"></a>
+
+I would like to thank Mafia Code for his tutorial who helped me to build my application: 
+ Here the link: https://www.youtube.com/watch?v=RUL9yTzOTuU&list=PLdHg5T0SNpN09AlLBAYahKZUrAWsIL7No
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
